@@ -7,9 +7,10 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 Run `npm build` to build the project. 
 
 
-Name: Puneet Bhandari
-2. Project title
-#Dependencies
+Name: Puneet Bhandari <br/>
+Project title: Marvel Characters POC
+
+# Dependencies
 Reactjs
 Redux
 Material UI
@@ -18,15 +19,15 @@ Flexboxgrid
 React router dom
 mui/x-data-grid
 
-#steps on how to install 
+# steps on how to install 
 1. clone project from Github
 2. Go to marvel-app
 3. run `npm install `
 
 
-#Steps to build the application
+# Steps to build the application
 run `npm build`
 
-#branch details
+# branch details
 `master` is default branch
 
