@@ -26,3 +26,7 @@ mui/x-data-grid
 
 #Steps to build the application
 run `npm build`
+
+#branch details
+`master` is default branch
+
