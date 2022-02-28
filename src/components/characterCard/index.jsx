@@ -19,7 +19,7 @@ const columns = [
   {
     field: "thumbnail.path",
     headerName: "Image",
-    width: 200,,
+    width: 200,
     renderCell: params => (
       <img
         height="75"
