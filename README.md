@@ -21,8 +21,9 @@ mui/x-data-grid
 
 # steps on how to install 
 1. clone project from Github
-2. Go to marvel-app
-3. run `npm install `
+2. Install latest and stable node js
+3. Go to marvel-app
+4. run `npm install `
 
 
 # Steps to build the application
