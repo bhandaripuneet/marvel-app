@@ -1,0 +1,18 @@
+.sectionDetails{
+    padding: 16px
+}
+
+.belowSection {
+    width: 100%;
+}
+.backButton{
+    text-decoration: none;
+    color: cornflowerblue;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    width: auto; /* ie8 */
+}

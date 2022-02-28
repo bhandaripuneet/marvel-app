@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eeeeee;
+}
+
+.buttonSubmit {
+  background-color: #388E3C;
+}
+
+.buttonCancel button {
+  background-color: #b71c1c;
+}
+.row{
+  margin: 1% 0%;
+}

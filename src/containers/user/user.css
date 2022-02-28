@@ -1,0 +1,40 @@
+.searchBar{
+    margin: 0% 1%;
+    background-color: white;
+    align-items: flex-start;
+}
+
+.partitionTitile{
+    width: 90%;
+    border-bottom: 2px solid grey;
+}
+
+.displayCard{
+    margin: 1% 3%;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    display: inline;
+}
+
+.filterCheckboxes{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.filterPopover{
+    width: 500px;
+}
+
+.searchButton {
+    display: grid;
+    align-content: end;
+}
+
+.searchBarButtons {
+    display: flex;
+}

@@ -1,0 +1,7 @@
+AppBar {
+  background-color: rebeccapurple;
+}
+
+.appName {
+  cursor: pointer;
+}
